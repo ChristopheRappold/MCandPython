@@ -8,7 +8,11 @@ Jupyter sessions for lecture on Python and Monte Carlo techniques.
    + Matplotlib module
 
 2. Monte Carlo techniques in statistics and error handling.
-
+   + Estimator 
+   + probability density functions
+   + Monte Carlo methods
+   + Error propagations
+   
 ## How to install Python and that is necessary for the lectures
 
   + What is mendatory:
