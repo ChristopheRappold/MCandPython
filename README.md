@@ -11,17 +11,17 @@ Jupyter sessions for lecture on Python and Monte Carlo techniques.
    + Estimator 
    + probability density functions
    + Monte Carlo methods
-   + Error propagations
+   + Error propagation
    
 ## How to install Python and that is necessary for the lectures
 
-  + What is mendatory:
+  + What is mandatory:
     - Python > v3.5
     - jupyter module
     - numpy module
     - matplotlib module
     - scipy module
-    - pandas module
+
      
 ### Windows:
   - If you are familiar with prompts or Python is already installed by administrators but you can not have admin access go to (ii.):  
@@ -80,3 +80,10 @@ Jupyter sessions for lecture on Python and Monte Carlo techniques.
         jupyter notebook
         ```
  
+## Acknowledgments
+
+  Those seminar sessions were written by Christophe Rappold
+  
+## License 
+  
+  Those sessions are published under the terms of the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
